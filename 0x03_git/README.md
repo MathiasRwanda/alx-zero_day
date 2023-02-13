@@ -1,1 +1,3 @@
-mastercard
+#!/bin/bash
+pwd
+
